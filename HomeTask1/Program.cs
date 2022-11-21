@@ -7,6 +7,7 @@ namespace HomeTask1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello whole world!");
+            Console.WriteLine("Feature branch 2 - develpmemt 1");
         }
     }
 }
